@@ -15,7 +15,7 @@ You can handle this, right? The planet Earth needs to know what we have found!
 
 ## Your Task
 
-### Before You Begin
+### Before You Begin 
 
 1. Create a new repository for this project called `javascript-challenge`. **Do not add this homework to an existing repository**.
 
